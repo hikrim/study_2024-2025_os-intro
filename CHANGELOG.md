@@ -1,4 +1,4 @@
-## [1.2.4](https://github.com/hikrim/study_2024-2025_os-intro/compare/v1.2.3...v1.2.4) (2025-03-08)
+## [1.2.5](https://github.com/hikrim/study_2024-2025_os-intro/compare/v1.2.4...v1.2.5) (2025-03-08)
 
 
 ### Features
