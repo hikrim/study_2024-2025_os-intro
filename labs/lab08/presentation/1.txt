@@ -1,0 +1,12 @@
+:::::::::::::: {.columns align=center}
+::: {.column width="30%"}
+
+
+
+:::
+::: {.column width="70%"}
+
+
+
+:::
+::::::::::::::
